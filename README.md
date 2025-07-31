@@ -1,7 +1,7 @@
 # Stock Price Prediction App
 
 Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
-You can test our website here:-"https://stock-price-predictiongit-6hg9dhnczwj8jfehulhpgo.streamlit.app/"
+You can test our website here:-"https://stock-price-prediction-czgkbyd2mkasghupctrnm2.streamlit.app/"
 
 
 ## Table of Contents
@@ -29,7 +29,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ayushman0505/Stock-Price-Prediction.git
+   git clone https://github.com/bitHead22/Stock-Price-Prediction.git
    ```
 
 2. Navigate to the project directory:
